@@ -1,3 +1,3 @@
 ### im merilynn
 
-how does this work
+i make web apps and help contribute to the svelte ecosystem!
