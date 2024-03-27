@@ -4,8 +4,6 @@
   width="150"
   alt="renpy-tan and octocat" />
 
-# hi, im merilynn !
+# hi, im meri!
 
-i make web apps and help contribute to the web and svelte ecosystem!
-
-let's make things a bit nicer around here~
+in my free time i make apps, and tooling for things i like. recently interested in ren'py, second life and web apps!
